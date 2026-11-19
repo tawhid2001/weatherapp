@@ -3,7 +3,7 @@
 A modern weather application built with HTML, CSS, and JavaScript that provides real-time weather information with a beautiful glass morphism UI design.
 
 ## Live Demo 🚀
-[Weather App Live Demo](https://tawhid2001.github.io/weatherapp/)
+[Weather App Live Demo](https://weatherapp-taupe-nu.vercel.app/)
 
 ## Features ✨
 
